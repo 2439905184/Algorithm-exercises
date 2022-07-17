@@ -12,7 +12,7 @@
  */
  var preorderTraversal = function(root) {
     var result = []
-    
+    //递归算法
     function bianli(root)
     {
         if(root == null)
