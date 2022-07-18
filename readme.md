@@ -1,0 +1,1 @@
+js文件使用node xxx.js文件运行
