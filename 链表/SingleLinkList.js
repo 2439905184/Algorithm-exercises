@@ -1,3 +1,4 @@
+//单链表实现
 var Node = function(value)
 {
     this.value = value
